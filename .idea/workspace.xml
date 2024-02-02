@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d199c59b-606b-44fb-8eaa-548c83ca6cad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jeongseolhwa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/ABCSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/AallB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/AminusB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/AnanugiB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/AplusB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/AtimesB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/Jungmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/Nollam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/ThreeThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_1/Year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_2/AlarmClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_2/BigSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_2/DicePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_2/DuckAlarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_2/FourSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_2/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_2/YoonYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/AB4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/AB5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/AB7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/AB8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/ABPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/Costco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/FastAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/LongInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/NineNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/StarRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_3/Sum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2biCuPYwsTo6PQpLGAdj84wKMKQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "애플리케이션.AB4.executor": "Run",
+    "애플리케이션.AB5.executor": "Run",
+    "애플리케이션.AB7.executor": "Run",
+    "애플리케이션.AB8.executor": "Run",
+    "애플리케이션.ABPlus.executor": "Run",
+    "애플리케이션.AallB.executor": "Run",
+    "애플리케이션.Costco.executor": "Run",
+    "애플리케이션.DuckAlarm.executor": "Run",
+    "애플리케이션.Jungmin.executor": "Run",
+    "애플리케이션.LongInt.executor": "Run",
+    "애플리케이션.NineNine.executor": "Run",
+    "애플리케이션.Star.executor": "Run",
+    "애플리케이션.StarRight.executor": "Run",
+    "애플리케이션.Sum.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="step_3" />
+      <recent name="step_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AB8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="step_3.AB8" />
+      <module name="java_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="step_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AallB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="step_1.AallB" />
+      <module name="java_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="step_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="step_2.AlarmClock" />
+      <module name="java_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="step_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="step_3.LongInt" />
+      <module name="java_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="step_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.AB8" />
+        <item itemvalue="애플리케이션.AallB" />
+        <item itemvalue="애플리케이션.LongInt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-b24ef850" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d199c59b-606b-44fb-8eaa-548c83ca6cad" name="Changes" comment="" />
+      <created>1706688733656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706688733656</updated>
+    </task>
+    <servers />
+  </component>
+</project>
