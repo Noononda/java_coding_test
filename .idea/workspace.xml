@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d199c59b-606b-44fb-8eaa-548c83ca6cad" name="Changes" comment="Changes" />
+    <list default="true" id="d199c59b-606b-44fb-8eaa-548c83ca6cad" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/step_4/BallBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/ChangeBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/ChangeBall_scan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/NewGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/Remain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/ReverseBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step_4/Counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_4/Counting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step_4/WhoHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_4/WhoHomework.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +29,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -36,14 +49,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "settings.qodana",
     "애플리케이션.AB4.executor": "Run",
     "애플리케이션.AB5.executor": "Run",
     "애플리케이션.AB7.executor": "Run",
     "애플리케이션.AB8.executor": "Run",
     "애플리케이션.ABPlus.executor": "Run",
     "애플리케이션.AallB.executor": "Run",
+    "애플리케이션.AplusB.executor": "Run",
+    "애플리케이션.BallBasket.executor": "Run",
     "애플리케이션.BigSmall.executor": "Run",
+    "애플리케이션.ChangeBall.executor": "Run",
+    "애플리케이션.ChangeBall_scan.executor": "Run",
     "애플리케이션.Costco.executor": "Run",
     "애플리케이션.Counting.executor": "Run",
     "애플리케이션.DicePrice.executor": "Run",
@@ -53,15 +70,19 @@
     "애플리케이션.Jungmin.executor": "Run",
     "애플리케이션.LessCount.executor": "Run",
     "애플리케이션.LongInt.executor": "Run",
+    "애플리케이션.NewGrade.executor": "Run",
     "애플리케이션.NineBIG.executor": "Run",
     "애플리케이션.NineNine.executor": "Run",
+    "애플리케이션.Remain.executor": "Run",
     "애플리케이션.Star.executor": "Run",
     "애플리케이션.StarRight.executor": "Run",
-    "애플리케이션.Sum.executor": "Run"
+    "애플리케이션.Sum.executor": "Run",
+    "애플리케이션.WhoHomework.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="step_4" />
       <recent name="step_3" />
       <recent name="step_1" />
     </key>
@@ -159,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706939063547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1706939155697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706939155697</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +202,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
