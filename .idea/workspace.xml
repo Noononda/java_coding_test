@@ -4,46 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d199c59b-606b-44fb-8eaa-548c83ca6cad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jeongseolhwa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_coding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/ABCSame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/AallB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/AminusB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/AnanugiB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/AplusB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/AtimesB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/Jungmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/Nollam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/ThreeThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_1/Year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_2/AlarmClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_2/BigSmall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_2/DicePrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_2/DuckAlarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_2/FourSide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_2/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_2/YoonYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/AB4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/AB5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/AB7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/AB8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/ABPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/Costco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/FastAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/LongInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/NineNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/StarRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_3/Sum.java" afterDir="false" />
+    <list default="true" id="d199c59b-606b-44fb-8eaa-548c83ca6cad" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/step_2/DicePrize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/BigSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/LessCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/NineBIG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_4/WhoHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step_2/DicePrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step_2/DuckAlarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_2/DuckAlarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step_3/FastAB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_3/FastAB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step_3/StarRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_3/StarRight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,16 +48,24 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "애플리케이션.AB4.executor": "Run",
     "애플리케이션.AB5.executor": "Run",
     "애플리케이션.AB7.executor": "Run",
     "애플리케이션.AB8.executor": "Run",
     "애플리케이션.ABPlus.executor": "Run",
     "애플리케이션.AallB.executor": "Run",
+    "애플리케이션.BigSmall.executor": "Run",
     "애플리케이션.Costco.executor": "Run",
+    "애플리케이션.Counting.executor": "Run",
+    "애플리케이션.DicePrice.executor": "Run",
+    "애플리케이션.DicePrize.executor": "Run",
     "애플리케이션.DuckAlarm.executor": "Run",
+    "애플리케이션.FastAB.executor": "Run",
     "애플리케이션.Jungmin.executor": "Run",
+    "애플리케이션.LessCount.executor": "Run",
     "애플리케이션.LongInt.executor": "Run",
+    "애플리케이션.NineBIG.executor": "Run",
     "애플리케이션.NineNine.executor": "Run",
     "애플리케이션.Star.executor": "Run",
     "애플리케이션.StarRight.executor": "Run",
@@ -175,6 +155,42 @@
       <option name="presentableId" value="Default" />
       <updated>1706688733656</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1706832089529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706832089529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>

@@ -9,12 +9,11 @@ public class DuckAlarm {
         int C = scan.nextInt();
         int time = (A * 60) + B + C;
 
-        if (time / 60 == 24) {
-            time = time - 1440;
-        }
-        int hour = time / 60;
+        int hour = time / 60 % 24 ;
         int minute = time % 60;
-        System.out.println(hour + " " + minute);
+        System.out.print(hour);
+        System.out.print(" ");
+        System.out.print(minute);
         }
 
     }
