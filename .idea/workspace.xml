@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d199c59b-606b-44fb-8eaa-548c83ca6cad" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/step_4/BallBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_4/ChangeBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_4/ChangeBall_scan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_4/NewGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_4/Remain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step_4/ReverseBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/Ascii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/Dial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/SangSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/St.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/StringAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_5/WordBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/CountCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/GradeAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/GroupWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step_6/sprout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jeongseolhwa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jeongseolhwa.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/step_4/Counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_4/Counting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/step_4/WhoHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_4/WhoHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step_4/ReverseBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step_4/ReverseBasket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -42,111 +59,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "settings.qodana",
-    "애플리케이션.AB4.executor": "Run",
-    "애플리케이션.AB5.executor": "Run",
-    "애플리케이션.AB7.executor": "Run",
-    "애플리케이션.AB8.executor": "Run",
-    "애플리케이션.ABPlus.executor": "Run",
-    "애플리케이션.AallB.executor": "Run",
-    "애플리케이션.AplusB.executor": "Run",
-    "애플리케이션.BallBasket.executor": "Run",
-    "애플리케이션.BigSmall.executor": "Run",
-    "애플리케이션.ChangeBall.executor": "Run",
-    "애플리케이션.ChangeBall_scan.executor": "Run",
-    "애플리케이션.Costco.executor": "Run",
-    "애플리케이션.Counting.executor": "Run",
-    "애플리케이션.DicePrice.executor": "Run",
-    "애플리케이션.DicePrize.executor": "Run",
-    "애플리케이션.DuckAlarm.executor": "Run",
-    "애플리케이션.FastAB.executor": "Run",
-    "애플리케이션.Jungmin.executor": "Run",
-    "애플리케이션.LessCount.executor": "Run",
-    "애플리케이션.LongInt.executor": "Run",
-    "애플리케이션.NewGrade.executor": "Run",
-    "애플리케이션.NineBIG.executor": "Run",
-    "애플리케이션.NineNine.executor": "Run",
-    "애플리케이션.Remain.executor": "Run",
-    "애플리케이션.Star.executor": "Run",
-    "애플리케이션.StarRight.executor": "Run",
-    "애플리케이션.Sum.executor": "Run",
-    "애플리케이션.WhoHomework.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;애플리케이션.AB4.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.AB5.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.AB7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.AB8.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ABPlus.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.AallB.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.AplusB.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Ascii.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.BallBasket.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.BigSmall.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ChangeBall.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ChangeBall_scan.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Chess.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Costco.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Count.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CountCopy.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Counting.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Dial.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DicePrice.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DicePrize.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DuckAlarm.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.FastAB.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GradeAverage.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GroupWord.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Jungmin.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.LessCount.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.LongInt.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.NewGrade.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.NineBIG.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.NineNine.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Print.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Remain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ReverseBasket.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SangSu.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.St.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Star.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StarRight.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringAgain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringAgain_scan.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringAgain_scan_while.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringLength.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TestCase.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.WhoHomework.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Word.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.WordBlank.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.sprout.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="step_6" />
+      <recent name="step_5" />
       <recent name="step_4" />
       <recent name="step_3" />
       <recent name="step_1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="AB8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="step_3.AB8" />
-      <module name="java_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="step_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AallB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="step_1.AallB" />
-      <module name="java_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="step_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlarmClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="step_2.AlarmClock" />
-      <module name="java_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="step_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="step_3.LongInt" />
-      <module name="java_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="step_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="애플리케이션.AB8" />
-        <item itemvalue="애플리케이션.AallB" />
-        <item itemvalue="애플리케이션.LongInt" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -188,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706939155697</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1706970593238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706970593238</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
