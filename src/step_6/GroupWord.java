@@ -8,7 +8,6 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-import static java.lang.StringUTF16.indexOf;
 
 public class GroupWord {
     public static void main(String[] args) throws IOException {
@@ -30,7 +29,7 @@ public class GroupWord {
             int A = 0;
             for (int j = 0; j < word.length; j++) {
                 Arrays.asList(word).indexOf(word[j]);
-                A ++
+                A ++;
             }
         }
     }
